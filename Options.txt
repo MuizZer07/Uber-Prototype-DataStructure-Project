@@ -1,0 +1,13 @@
+Preferences :
+
+1) Nearest Cars 
+2) Top Rated Drivers 
+3) Car-Type 
+4) Highest Passenger Supports 
+5) Combined Search: Nearest & Top Rated 
+6) Combined Search: Nearest & Car Type
+7) Combined Search: Nearest & Available no. of Passengers
+8) Combined Search: Top Rated & Car Type
+9) Combined Search: Top Rated & Available no. of Passengers
+
+

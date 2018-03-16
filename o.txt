@@ -1,0 +1,12 @@
+Car No.: 8
+Car Type: Jeep
+No. of Passenger Supports: 6
+Driver's Name: Sharif
+Contact Number: 019500000
+Rating: 4.2
+Number of times fined: 1
+Total Fine: 50
+Total Earning in this month: 1725
+Fare/K.M. : 15
+Current Location: Mirpur
+

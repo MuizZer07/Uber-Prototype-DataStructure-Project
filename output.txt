@@ -1,0 +1,144 @@
+Car No.: 1
+Car Type: Private-Car
+No. of Passenger Supports: 4
+Driver's Name: Muiz
+Contact Number: 019100000
+Rating: 4
+Number of times fined: 0
+Total Fine: 0
+Total Earning in this month: 1105
+Fare/K.M. : 10
+Current Location: Mirpur
+
+Car No.: 2
+Car Type: Jeep
+No. of Passenger Supports: 6
+Driver's Name: Alif
+Contact Number: 015200000
+Rating: 4.3
+Number of times fined: 2
+Total Fine: 100
+Total Earning in this month: 1144
+Fare/K.M. : 15
+Current Location: Gulshan
+
+Car No.: 3
+Car Type: Microbus
+No. of Passenger Supports: 8
+Driver's Name: Irfan
+Contact Number: 01710000
+Rating: 4.5
+Number of times fined: 1
+Total Fine: 50
+Total Earning in this month: 1261
+Fare/K.M. : 18
+Current Location: Dhanmondi
+
+Car No.: 4
+Car Type: Private-Car
+No. of Passenger Supports: 4
+Driver's Name: Ahmed
+Contact Number: 016500000
+Rating: 4
+Number of times fined: 3
+Total Fine: 300
+Total Earning in this month: 633
+Fare/K.M. : 10
+Current Location: Uttara
+
+Car No.: 5
+Car Type: Microbus
+No. of Passenger Supports: 8
+Driver's Name: Ahad
+Contact Number: 01710000
+Rating: 4
+Number of times fined: 2
+Total Fine: 150
+Total Earning in this month: 1720
+Fare/K.M. : 18
+Current Location: Bashundhara
+
+Car No.: 6
+Car Type: Microbus
+No. of Passenger Supports: 8
+Driver's Name: Saif
+Contact Number: 01750000
+Rating: 4
+Number of times fined: 1
+Total Fine: 50
+Total Earning in this month: 637
+Fare/K.M. : 18
+Current Location: Mirpur
+
+Car No.: 7
+Car Type: Private-Car
+No. of Passenger Supports: 4
+Driver's Name: Sadat
+Contact Number: 019900000
+Rating: 4.5
+Number of times fined: 1
+Total Fine: 50
+Total Earning in this month: 700
+Fare/K.M. : 10
+Current Location: Gulshan
+
+Car No.: 8
+Car Type: Jeep
+No. of Passenger Supports: 6
+Driver's Name: Sharif
+Contact Number: 019500000
+Rating: 4.2
+Number of times fined: 1
+Total Fine: 50
+Total Earning in this month: 1725
+Fare/K.M. : 15
+Current Location: Mirpur
+
+Car No.: 9
+Car Type: Microbus
+No. of Passenger Supports: 8
+Driver's Name: Rubel
+Contact Number: 019500000
+Rating: 3.9
+Number of times fined: 5
+Total Fine: 500
+Total Earning in this month: 2140
+Fare/K.M. : 18
+Current Location: Dhanmondi
+
+Car No.: 10
+Car Type: Private-Car
+No. of Passenger Supports: 4
+Driver's Name: Salman
+Contact Number: 019500000
+Rating: 4
+Number of times fined: 1
+Total Fine: 5
+Total Earning in this month: 732
+Fare/K.M. : 10
+Current Location: Dhanmondi
+
+Car No.: 11
+Car Type: Private-Car
+No. of Passenger Supports: 4
+Driver's Name: Kamal
+Contact Number: 019500000
+Rating: 4.2
+Number of times fined: 5
+Total Fine: 57
+Total Earning in this month: 910
+Fare/K.M. : 10
+Current Location: Dhanmondi
+
+Car No.: 12
+Car Type: Jeep
+No. of Passenger Supports: 6
+Driver's Name: Sarwar
+Contact Number: 019500000
+Rating: 3.9
+Number of times fined: 1
+Total Fine: 50
+Total Earning in this month: 3387
+Fare/K.M. : 15
+Current Location: Dhanmondi
+

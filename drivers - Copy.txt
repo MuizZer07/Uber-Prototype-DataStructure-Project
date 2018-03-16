@@ -1,0 +1,12 @@
+1 Muiz Uttara Private-Car 10 4 100.1 4.1 0 0 019100000 2
+2 Alif Mirpur Jeep 15 6 55.7 4.3 100 2 015200000 3
+3 Irfan Dhanmondi Microbus 18 8 70.1 4.5 50 1 01710000 4
+4 Ahmed Farmgate Private-Car 10 4 40.6 4.2 300 3 016500000 4
+5 Ahad Banani Microbus 18 8 75.7 4.1 150 2 01710000 2
+6 Saif Mohakhali Microbus 18 8 23.1 4.1 50 1 01750000 4
+7 Sadat Gulshan Private-Car 10 4 70.1 4.5 50 1 019900000 1
+8 Sharif Mirpur Jeep 15 6 90.4 4.5 50 1 019500000 3
+9 Rubel Banani Microbus 18 8 96.4 3.8 500 5 019500000 7
+10 Salman Uttara Private-Car 10 4 50.4 4.2 5 1 019500000 3
+11 Kamal Bashundhara Private-Car 10 4 80.6 4.1 57 5 019500000 5
+12 Sarwar Dhanmondi Jeep 15 6 99.8 4.4 50 1 019500000 1

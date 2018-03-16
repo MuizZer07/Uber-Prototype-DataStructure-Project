@@ -1,0 +1,34 @@
+Uttara Banani 13.4
+Banani Uttara 13.4
+Uttara Mirpur 12.3
+Mirpur Uttara 12.3
+Uttara Bashundhara 13.1
+Bashundhara Uttara 13.1
+Mohakhali Banani 3.2
+Banani Mohakhali 3.2
+Banani Bashundhara 10.3
+Bashundhara Banani 10.3
+Farmgate Mohakhali 5.9
+Mohakhali Farmgate 5.9
+Banani Mirpur 10
+Mirpur Banani 10
+Banani Gulshan 0.5
+Gulshan Banani 0.5
+Mohakhali Gulshan 3.1
+Gulshan Mohakhali 3.1
+Bashundhara Gulshan 9.8
+Gulshan Bashundhara 9.8
+Mirpur Bashundhara 12
+Bashundhara Mirpur 12
+Mirpur Farmgate 8.8
+Farmgate Mirpur 8.8
+Mirpur Dhanmondi 10.5
+Dhanmondi Mirpur 10.5
+Mohakhali Dhanmondi 7
+Dhanmondi Mohakhali 7
+Farmgate Dhanmondi 2.5
+Dhanmondi Farmgate 2.5
+
+
+
+

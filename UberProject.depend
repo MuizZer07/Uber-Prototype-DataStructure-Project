@@ -1,0 +1,819 @@
+# depslib dependency file v1.0
+1480965150 source:e:\documents\5th semester 163\cse225\codes\uberproject\driver.cpp
+	"Driver.h"
+
+1480966287 e:\documents\5th semester 163\cse225\codes\uberproject\driver.h
+	<fstream>
+	<string>
+
+1480976765 source:e:\documents\5th semester 163\cse225\codes\uberproject\sortedtype.cpp
+	"SortedType.h"
+	"Driver.h"
+
+1480975219 e:\documents\5th semester 163\cse225\codes\uberproject\sortedtype.h
+	<iostream>
+	"SortedType.cpp"
+
+1480976765 e:\documents\5th semester 163\cse225\codes\uberproject\sortedtype.cpp
+	"SortedType.h"
+	"Driver.h"
+
+1480976765 source:e:\documents\5th semester 163\cse225\codes\uberproject\main.cpp
+	<iostream>
+	<fstream>
+	"Driver.h"
+	"SortedType.h"
+	"GraphType.h"
+	"Management.h"
+
+1480961772 source:e:\documents\5th semester 163\cse225\codes\uberproject\graphtype.cpp
+	"GraphType.h"
+
+1480961772 e:\documents\5th semester 163\cse225\codes\uberproject\graphtype.h
+	<queue>
+	<iostream>
+	"GraphType.cpp"
+
+1480961772 e:\documents\5th semester 163\cse225\codes\uberproject\graphtype.cpp
+	"GraphType.h"
+
+1480976263 source:e:\documents\5th semester 163\cse225\codes\uberproject\management.cpp
+	"Management.h"
+
+1480975219 e:\documents\5th semester 163\cse225\codes\uberproject\management.h
+	<fstream>
+	"Driver.h"
+	"SortedType.h"
+	"GraphType.h"
+	"StackType.h"
+	"QueueType.h"
+
+1480972763 e:\documents\5th semester 163\cse225\codes\uberproject\queuetype.h
+	<iostream>
+	"QueueType.cpp"
+
+1480973721 e:\documents\5th semester 163\cse225\codes\uberproject\queuetype.cpp
+	"QueueType.h"
+
+1480973721 source:e:\documents\5th semester 163\cse225\codes\uberproject\queuetype.cpp
+	"QueueType.h"
+
+1480970281 e:\documents\5th semester 163\cse225\codes\uberproject\stacktype.h
+	<iostream>
+	"StackType.cpp"
+
+1480970268 e:\documents\5th semester 163\cse225\codes\uberproject\stacktype.cpp
+	"StackType.h"
+
+1480970268 source:e:\documents\5th semester 163\cse225\codes\uberproject\stacktype.cpp
+	"StackType.h"
+
+1481663990 source:e:\uberproject\driver.cpp
+	"Driver.h"
+	<iostream>
+
+1481663990 e:\uberproject\driver.h
+	<cmath>
+	<fstream>
+	<string>
+
+1481740857 source:e:\uberproject\graphtype.cpp
+	"GraphType.h"
+
+1481740857 e:\uberproject\graphtype.h
+	<queue>
+	"QueueType.h"
+	<iostream>
+	"GraphType.cpp"
+
+1481740857 e:\uberproject\graphtype.cpp
+	"GraphType.h"
+
+1481741920 source:e:\uberproject\management.cpp
+	<string>
+	<fstream>
+	<iostream>
+	"Management.h"
+
+1481739604 e:\uberproject\management.h
+	<fstream>
+	<string>
+	<cstring>
+	"Driver.h"
+	"SortedType.h"
+	"GraphType.h"
+	"StackType.h"
+
+1481664000 e:\uberproject\sortedtype.h
+	<iostream>
+	"SortedType.cpp"
+
+1481741663 e:\uberproject\sortedtype.cpp
+	"SortedType.h"
+	"Driver.h"
+
+1481740746 e:\uberproject\stacktype.h
+	<iostream>
+	"StackType.cpp"
+
+1481664000 e:\uberproject\stacktype.cpp
+	"StackType.h"
+
+1481740796 e:\uberproject\queuetype.h
+	<iostream>
+	"QueueType.cpp"
+
+1481740802 e:\uberproject\queuetype.cpp
+	"QueueType.h"
+
+1481740802 source:e:\uberproject\queuetype.cpp
+	"QueueType.h"
+
+1481741663 source:e:\uberproject\sortedtype.cpp
+	"SortedType.h"
+	"Driver.h"
+
+1481664000 source:e:\uberproject\stacktype.cpp
+	"StackType.h"
+
+1481750167 source:e:\uberproject\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"Driver.h"
+	"SortedType.h"
+	"GraphType.h"
+	"Management.h"
+	"StackType.h"
+	"conio.h"
+	"Supervision.h"
+
+1481663990 source:c:\users\muiz\desktop\uberproject\driver.cpp
+	"Driver.h"
+	<iostream>
+
+1481663990 c:\users\muiz\desktop\uberproject\driver.h
+	<cmath>
+	<fstream>
+	<string>
+
+1481740857 source:c:\users\muiz\desktop\uberproject\graphtype.cpp
+	"GraphType.h"
+
+1481740857 c:\users\muiz\desktop\uberproject\graphtype.h
+	<queue>
+	"QueueType.h"
+	<iostream>
+	"GraphType.cpp"
+
+1481740857 c:\users\muiz\desktop\uberproject\graphtype.cpp
+	"GraphType.h"
+
+1481741550 source:c:\users\muiz\desktop\uberproject\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"Driver.h"
+	"SortedType.h"
+	"GraphType.h"
+	"Management.h"
+	"StackType.h"
+	"conio.h"
+
+1481664000 c:\users\muiz\desktop\uberproject\sortedtype.h
+	<iostream>
+	"SortedType.cpp"
+
+1481741663 c:\users\muiz\desktop\uberproject\sortedtype.cpp
+	"SortedType.h"
+	"Driver.h"
+
+1481739604 c:\users\muiz\desktop\uberproject\management.h
+	<fstream>
+	<string>
+	<cstring>
+	"Driver.h"
+	"SortedType.h"
+	"GraphType.h"
+	"StackType.h"
+
+1481740746 c:\users\muiz\desktop\uberproject\stacktype.h
+	<iostream>
+	"StackType.cpp"
+
+1481664000 c:\users\muiz\desktop\uberproject\stacktype.cpp
+	"StackType.h"
+
+1481740796 c:\users\muiz\desktop\uberproject\queuetype.h
+	<iostream>
+	"QueueType.cpp"
+
+1481740802 c:\users\muiz\desktop\uberproject\queuetype.cpp
+	"QueueType.h"
+
+1481740802 source:c:\users\muiz\desktop\uberproject\queuetype.cpp
+	"QueueType.h"
+
+1481741663 source:c:\users\muiz\desktop\uberproject\sortedtype.cpp
+	"SortedType.h"
+	"Driver.h"
+
+1481664000 source:c:\users\muiz\desktop\uberproject\stacktype.cpp
+	"StackType.h"
+
+1481741920 source:c:\users\muiz\desktop\uberproject\management.cpp
+	<string>
+	<fstream>
+	<iostream>
+	"Management.h"
+
+1481512712 source:c:\users\user\downloads\uberproject\driver.cpp
+	"Driver.h"
+	<iostream>
+
+1481512712 c:\users\user\downloads\uberproject\driver.h
+	<cmath>
+	<fstream>
+	<string>
+
+1481705607 source:c:\users\user\downloads\uberproject\graphtype.cpp
+	"GraphType.h"
+
+1481705607 c:\users\user\downloads\uberproject\graphtype.h
+	<queue>
+	<iostream>
+	"GraphType.cpp"
+
+1481705607 c:\users\user\downloads\uberproject\graphtype.cpp
+	"GraphType.h"
+
+1481713034 source:c:\users\user\downloads\uberproject\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"Driver.h"
+	"SortedType.h"
+	"GraphType.h"
+	"Management.h"
+	"StackType.h"
+	"conio.h"
+
+1481512716 c:\users\user\downloads\uberproject\sortedtype.h
+	<iostream>
+	"SortedType.cpp"
+
+1481512716 c:\users\user\downloads\uberproject\sortedtype.cpp
+	"SortedType.h"
+	"Driver.h"
+
+1481705607 c:\users\user\downloads\uberproject\management.h
+	<fstream>
+	<string>
+	<cstring>
+	"Driver.h"
+	"SortedType.h"
+	"GraphType.h"
+	"StackType.h"
+
+1481512718 c:\users\user\downloads\uberproject\stacktype.h
+	<iostream>
+	"StackType.cpp"
+
+1481512718 c:\users\user\downloads\uberproject\stacktype.cpp
+	"StackType.h"
+
+1481705607 source:c:\users\user\downloads\uberproject\management.cpp
+	<string>
+	<fstream>
+	<iostream>
+	"Management.h"
+
+1481512716 source:c:\users\user\downloads\uberproject\sortedtype.cpp
+	"SortedType.h"
+	"Driver.h"
+
+1481512718 source:c:\users\user\downloads\uberproject\stacktype.cpp
+	"StackType.h"
+
+1481750167 e:\uberproject\supervision.h
+	<ctime>
+	"conio.h"
+	<cstring>
+	<string>
+	<cstdlib>
+	"SortedType.h"
+	"Driver.h"
+	"Management.h"
+	<fstream>
+
+1481750167 source:e:\uberproject\supervision.cpp
+	"Supervision.h"
+
+1481700244 source:c:\users\user\downloads\shortmainversion\driver.cpp
+	"Driver.h"
+	<iostream>
+
+1481797183 c:\users\user\downloads\shortmainversion\driver.h
+	<cmath>
+	<fstream>
+	<string>
+
+1481798744 source:c:\users\user\downloads\shortmainversion\graphtype.cpp
+	"GraphType.h"
+
+1481798744 c:\users\user\downloads\shortmainversion\graphtype.h
+	<iostream>
+	"GraphType.cpp"
+
+1481700254 c:\users\user\downloads\shortmainversion\queuetype.h
+	<iostream>
+	"QueueType.cpp"
+
+1481700252 c:\users\user\downloads\shortmainversion\queuetype.cpp
+	"QueueType.h"
+
+1481798744 c:\users\user\downloads\shortmainversion\graphtype.cpp
+	"GraphType.h"
+
+1481805784 source:c:\users\user\downloads\shortmainversion\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"Driver.h"
+	"SortedType.h"
+	"GraphType.h"
+	"Management.h"
+	"StackType.h"
+	"conio.h"
+	"Supervision.h"
+
+1481700254 c:\users\user\downloads\shortmainversion\sortedtype.h
+	<iostream>
+	"SortedType.cpp"
+
+1481700254 c:\users\user\downloads\shortmainversion\sortedtype.cpp
+	"SortedType.h"
+	"Driver.h"
+
+1481798074 c:\users\user\downloads\shortmainversion\management.h
+	<fstream>
+	<string>
+	<cstring>
+	"Driver.h"
+	"SortedType.h"
+	"GraphType.h"
+	"StackType.h"
+
+1481799102 c:\users\user\downloads\shortmainversion\stacktype.h
+	<iostream>
+	"StackType.cpp"
+
+1481700254 c:\users\user\downloads\shortmainversion\stacktype.cpp
+	"StackType.h"
+
+1481700254 c:\users\user\downloads\shortmainversion\supervision.h
+	<ctime>
+	"conio.h"
+	<cstring>
+	<string>
+	<cstdlib>
+	"SortedType.h"
+	"Driver.h"
+	"Management.h"
+	<fstream>
+
+1481795677 source:c:\users\user\downloads\shortmainversion\management.cpp
+	<string>
+	<fstream>
+	<iostream>
+	"Management.h"
+
+1481700252 source:c:\users\user\downloads\shortmainversion\queuetype.cpp
+	"QueueType.h"
+
+1481700254 source:c:\users\user\downloads\shortmainversion\sortedtype.cpp
+	"SortedType.h"
+	"Driver.h"
+
+1481700254 source:c:\users\user\downloads\shortmainversion\stacktype.cpp
+	"StackType.h"
+
+1481700254 source:c:\users\user\downloads\shortmainversion\supervision.cpp
+	"Supervision.h"
+
+1481911732 source:c:\users\muiz\desktop\shortmainversion_alif\driver.cpp
+	"Driver.h"
+	<iostream>
+
+1481755664 c:\users\muiz\desktop\shortmainversion_alif\driver.h
+	<cmath>
+	<fstream>
+	<string>
+
+1481914554 source:c:\users\muiz\desktop\shortmainversion_alif\graphtype.cpp
+	"GraphType.h"
+
+1481755664 c:\users\muiz\desktop\shortmainversion_alif\graphtype.h
+	<iostream>
+	"GraphType.cpp"
+
+1481914554 c:\users\muiz\desktop\shortmainversion_alif\graphtype.cpp
+	"GraphType.h"
+
+1481919955 source:c:\users\muiz\desktop\shortmainversion_alif\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"Driver.h"
+	"SortedType.h"
+	"GraphType.h"
+	"Management.h"
+	"StackType.h"
+	"conio.h"
+	"Supervision.h"
+
+1481755674 c:\users\muiz\desktop\shortmainversion_alif\sortedtype.h
+	<iostream>
+	"SortedType.cpp"
+
+1481755674 c:\users\muiz\desktop\shortmainversion_alif\sortedtype.cpp
+	"SortedType.h"
+	"Driver.h"
+
+1481755670 c:\users\muiz\desktop\shortmainversion_alif\management.h
+	<fstream>
+	<string>
+	<cstring>
+	"Driver.h"
+	"SortedType.h"
+	"GraphType.h"
+	"StackType.h"
+
+1481755674 c:\users\muiz\desktop\shortmainversion_alif\stacktype.h
+	<iostream>
+	"StackType.cpp"
+
+1481755674 c:\users\muiz\desktop\shortmainversion_alif\stacktype.cpp
+	"StackType.h"
+
+1481915686 c:\users\muiz\desktop\shortmainversion_alif\supervision.h
+	<ctime>
+	"conio.h"
+	<cstring>
+	<string>
+	<cstdlib>
+	"SortedType.h"
+	"Driver.h"
+	"Management.h"
+	<fstream>
+
+1481919793 source:c:\users\muiz\desktop\shortmainversion_alif\management.cpp
+	<string>
+	<fstream>
+	<iostream>
+	"Management.h"
+
+1481755674 source:c:\users\muiz\desktop\shortmainversion_alif\sortedtype.cpp
+	"SortedType.h"
+	"Driver.h"
+
+1481755674 source:c:\users\muiz\desktop\shortmainversion_alif\stacktype.cpp
+	"StackType.h"
+
+1481917224 source:c:\users\muiz\desktop\shortmainversion_alif\supervision.cpp
+	"Supervision.h"
+
+1481911732 source:i:\uberproject_finalversion\driver.cpp
+	"Driver.h"
+	<iostream>
+
+1481755664 i:\uberproject_finalversion\driver.h
+	<cmath>
+	<fstream>
+	<string>
+
+1481914554 source:i:\uberproject_finalversion\graphtype.cpp
+	"GraphType.h"
+
+1481755664 i:\uberproject_finalversion\graphtype.h
+	<iostream>
+	"GraphType.cpp"
+
+1481914554 i:\uberproject_finalversion\graphtype.cpp
+	"GraphType.h"
+
+1481919955 source:i:\uberproject_finalversion\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"Driver.h"
+	"SortedType.h"
+	"GraphType.h"
+	"Management.h"
+	"StackType.h"
+	"conio.h"
+	"Supervision.h"
+
+1481755674 i:\uberproject_finalversion\sortedtype.h
+	<iostream>
+	"SortedType.cpp"
+
+1481755674 i:\uberproject_finalversion\sortedtype.cpp
+	"SortedType.h"
+	"Driver.h"
+
+1481755670 i:\uberproject_finalversion\management.h
+	<fstream>
+	<string>
+	<cstring>
+	"Driver.h"
+	"SortedType.h"
+	"GraphType.h"
+	"StackType.h"
+
+1481755674 i:\uberproject_finalversion\stacktype.h
+	<iostream>
+	"StackType.cpp"
+
+1481755674 i:\uberproject_finalversion\stacktype.cpp
+	"StackType.h"
+
+1481915686 i:\uberproject_finalversion\supervision.h
+	<ctime>
+	"conio.h"
+	<cstring>
+	<string>
+	<cstdlib>
+	"SortedType.h"
+	"Driver.h"
+	"Management.h"
+	<fstream>
+
+1481919793 source:i:\uberproject_finalversion\management.cpp
+	<string>
+	<fstream>
+	<iostream>
+	"Management.h"
+
+1481755674 source:i:\uberproject_finalversion\sortedtype.cpp
+	"SortedType.h"
+	"Driver.h"
+
+1481755674 source:i:\uberproject_finalversion\stacktype.cpp
+	"StackType.h"
+
+1481917224 source:i:\uberproject_finalversion\supervision.cpp
+	"Supervision.h"
+
+1481911732 source:e:\6th semester\cse225\uberproject_finalversion\driver.cpp
+	"Driver.h"
+	<iostream>
+
+1481755664 e:\6th semester\cse225\uberproject_finalversion\driver.h
+	<cmath>
+	<fstream>
+	<string>
+
+1481914554 source:e:\6th semester\cse225\uberproject_finalversion\graphtype.cpp
+	"GraphType.h"
+
+1481755664 e:\6th semester\cse225\uberproject_finalversion\graphtype.h
+	<iostream>
+	"GraphType.cpp"
+
+1481914554 e:\6th semester\cse225\uberproject_finalversion\graphtype.cpp
+	"GraphType.h"
+
+1482059037 source:e:\6th semester\cse225\uberproject_finalversion\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"Driver.h"
+	"SortedType.h"
+	"GraphType.h"
+	"Management.h"
+	"StackType.h"
+	"conio.h"
+	"Supervision.h"
+
+1481755674 e:\6th semester\cse225\uberproject_finalversion\sortedtype.h
+	<iostream>
+	"SortedType.cpp"
+
+1481755674 e:\6th semester\cse225\uberproject_finalversion\sortedtype.cpp
+	"SortedType.h"
+	"Driver.h"
+
+1481755670 e:\6th semester\cse225\uberproject_finalversion\management.h
+	<fstream>
+	<string>
+	<cstring>
+	"Driver.h"
+	"SortedType.h"
+	"GraphType.h"
+	"StackType.h"
+
+1481755674 e:\6th semester\cse225\uberproject_finalversion\stacktype.h
+	<iostream>
+	"StackType.cpp"
+
+1481755674 e:\6th semester\cse225\uberproject_finalversion\stacktype.cpp
+	"StackType.h"
+
+1481915686 e:\6th semester\cse225\uberproject_finalversion\supervision.h
+	<ctime>
+	"conio.h"
+	<cstring>
+	<string>
+	<cstdlib>
+	"SortedType.h"
+	"Driver.h"
+	"Management.h"
+	<fstream>
+
+1481919793 source:e:\6th semester\cse225\uberproject_finalversion\management.cpp
+	<string>
+	<fstream>
+	<iostream>
+	"Management.h"
+
+1481755674 source:e:\6th semester\cse225\uberproject_finalversion\sortedtype.cpp
+	"SortedType.h"
+	"Driver.h"
+
+1481755674 source:e:\6th semester\cse225\uberproject_finalversion\stacktype.cpp
+	"StackType.h"
+
+1482061080 source:e:\6th semester\cse225\uberproject_finalversion\supervision.cpp
+	"Supervision.h"
+
+1482115302 source:c:\users\muiz\desktop\uberproject_grandfinalversion\driver.cpp
+	"Driver.h"
+	<iostream>
+
+1482115302 c:\users\muiz\desktop\uberproject_grandfinalversion\driver.h
+	<cmath>
+	<fstream>
+	<string>
+
+1482115302 source:c:\users\muiz\desktop\uberproject_grandfinalversion\graphtype.cpp
+	"GraphType.h"
+
+1482115302 c:\users\muiz\desktop\uberproject_grandfinalversion\graphtype.h
+	<iostream>
+	"GraphType.cpp"
+
+1482115302 c:\users\muiz\desktop\uberproject_grandfinalversion\graphtype.cpp
+	"GraphType.h"
+
+1482115304 source:c:\users\muiz\desktop\uberproject_grandfinalversion\main.cpp
+	"Driver.h"
+	"SortedType.h"
+	"GraphType.h"
+	"Management.h"
+	"StackType.h"
+	"Supervision.h"
+
+1482115310 c:\users\muiz\desktop\uberproject_grandfinalversion\sortedtype.h
+	<iostream>
+	"SortedType.cpp"
+
+1482115310 c:\users\muiz\desktop\uberproject_grandfinalversion\sortedtype.cpp
+	"SortedType.h"
+	"Driver.h"
+
+1482115304 c:\users\muiz\desktop\uberproject_grandfinalversion\management.h
+	<fstream>
+	<string>
+	<cstring>
+	"Driver.h"
+	"SortedType.h"
+	"GraphType.h"
+	"StackType.h"
+
+1482115310 c:\users\muiz\desktop\uberproject_grandfinalversion\stacktype.h
+	<iostream>
+	"StackType.cpp"
+
+1482115310 c:\users\muiz\desktop\uberproject_grandfinalversion\stacktype.cpp
+	"StackType.h"
+
+1482115310 c:\users\muiz\desktop\uberproject_grandfinalversion\supervision.h
+	<ctime>
+	"conio.h"
+	<cstring>
+	<string>
+	<cstdlib>
+	"SortedType.h"
+	"Driver.h"
+	"Management.h"
+	<fstream>
+
+1482115304 source:c:\users\muiz\desktop\uberproject_grandfinalversion\management.cpp
+	<string>
+	<fstream>
+	<iostream>
+	"Management.h"
+
+1482115310 source:c:\users\muiz\desktop\uberproject_grandfinalversion\sortedtype.cpp
+	"SortedType.h"
+	"Driver.h"
+
+1482115310 source:c:\users\muiz\desktop\uberproject_grandfinalversion\stacktype.cpp
+	"StackType.h"
+
+1482115310 source:c:\users\muiz\desktop\uberproject_grandfinalversion\supervision.cpp
+	"Supervision.h"
+
+1482115302 source:e:\documents\5th semester 163\cse225\codes\uberproject_finalversion\driver.cpp
+	"Driver.h"
+	<iostream>
+
+1482115302 e:\documents\5th semester 163\cse225\codes\uberproject_finalversion\driver.h
+	<cmath>
+	<fstream>
+	<string>
+
+1482115302 source:e:\documents\5th semester 163\cse225\codes\uberproject_finalversion\graphtype.cpp
+	"GraphType.h"
+
+1482115302 e:\documents\5th semester 163\cse225\codes\uberproject_finalversion\graphtype.h
+	<iostream>
+	"GraphType.cpp"
+
+1482115302 e:\documents\5th semester 163\cse225\codes\uberproject_finalversion\graphtype.cpp
+	"GraphType.h"
+
+1482115304 source:e:\documents\5th semester 163\cse225\codes\uberproject_finalversion\main.cpp
+	"Driver.h"
+	"SortedType.h"
+	"GraphType.h"
+	"Management.h"
+	"StackType.h"
+	"Supervision.h"
+
+1482115310 e:\documents\5th semester 163\cse225\codes\uberproject_finalversion\sortedtype.h
+	<iostream>
+	"SortedType.cpp"
+
+1482115310 e:\documents\5th semester 163\cse225\codes\uberproject_finalversion\sortedtype.cpp
+	"SortedType.h"
+	"Driver.h"
+
+1482115304 e:\documents\5th semester 163\cse225\codes\uberproject_finalversion\management.h
+	<fstream>
+	<string>
+	<cstring>
+	"Driver.h"
+	"SortedType.h"
+	"GraphType.h"
+	"StackType.h"
+
+1482115310 e:\documents\5th semester 163\cse225\codes\uberproject_finalversion\stacktype.h
+	<iostream>
+	"StackType.cpp"
+
+1482115310 e:\documents\5th semester 163\cse225\codes\uberproject_finalversion\stacktype.cpp
+	"StackType.h"
+
+1482115310 e:\documents\5th semester 163\cse225\codes\uberproject_finalversion\supervision.h
+	<ctime>
+	"conio.h"
+	<cstring>
+	<string>
+	<cstdlib>
+	"SortedType.h"
+	"Driver.h"
+	"Management.h"
+	<fstream>
+
+1482115304 source:e:\documents\5th semester 163\cse225\codes\uberproject_finalversion\management.cpp
+	<string>
+	<fstream>
+	<iostream>
+	"Management.h"
+
+1482115310 source:e:\documents\5th semester 163\cse225\codes\uberproject_finalversion\sortedtype.cpp
+	"SortedType.h"
+	"Driver.h"
+
+1482115310 source:e:\documents\5th semester 163\cse225\codes\uberproject_finalversion\stacktype.cpp
+	"StackType.h"
+
+1482115310 source:e:\documents\5th semester 163\cse225\codes\uberproject_finalversion\supervision.cpp
+	"Supervision.h"
+
